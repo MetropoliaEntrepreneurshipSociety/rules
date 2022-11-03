@@ -160,7 +160,7 @@ luettuna on läsnä. Äänestykset ratkaistaan ehdottomalla ääntenenemmistöll
 
 7. Yhdistyksen nimen kirjoittaminen
 Yhdistyksen nimen kirjoittaa hallituksen puheenjohtaja, varapuheenjohtaja,
-toimihenkilö tai rahastonhoitaja, kukin erikseen.
+hallituksen määräämä toimihenkilö tai rahastonhoitaja, kukin erikseen.
 
 8. Tilikausi
 Yhdistyksen tilikausi on kalenterivuosi.
