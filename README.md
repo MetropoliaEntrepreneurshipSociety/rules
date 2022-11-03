@@ -38,7 +38,7 @@ Votes shall be decided by an absolute majority of votes. In the event of a tie, 
 
 7. Writing the name of the Association
 
-The name of the Association shall be written by the Chairman of the Board, the Vice-Chairman, officer or treasurer, each separately.
+The name of the Association shall be written by the Chairman of the Board, the Vice-Chairman, officer or treasurer whom is specified by The Board, each separately.
 
 8. Financial period
 
